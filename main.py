@@ -174,7 +174,7 @@ You can also use the expander after shortening a URL.
 
 This project was developed by Jose Wesley De Lima Silva. You can learn more by visiting the project page on github:
 
-https://github.com/jwesleylima/URLShortener-Python-PyQt5''')
+https://github.com/jwesleylima/URL-Shortener-Python-PyQt5''')
 
 
 if __name__ == '__main__':
